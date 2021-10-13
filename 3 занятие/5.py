@@ -9,9 +9,9 @@ turtle.hideturtle()
 turtle.penup()
 turtle.goto(-220,-220)
 turtle.pendown()
-for i in range(4):
-    turtle.forward(440)
-    turtle.left(90)
+for i in range(4):
+    turtle.forward(440)
+    turtle.left(90)
 
 pool = [turtle.Turtle(shape='circle') for i in range(number_of_turtles)]
 
