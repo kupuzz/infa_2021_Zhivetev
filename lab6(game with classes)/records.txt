@@ -1,2 +1,4 @@
 kirill: -312
 kupuzz: 1216
+why...: 1028
+mag: 336
